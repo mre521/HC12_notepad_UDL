@@ -7,3 +7,5 @@ This is a User Defined Language(UDL) file for [Notepad++](http://notepad-plus-pl
 
 More documentation on UDL can be found here: http://udl20.weebly.com/
 
+
+This repository has been forked to provide specific support for HC12 assembly files written for the the CodeWarrior HC12 Assembler (http://www.nxp.com/files/soft_dev_tools/doc/ref_manual/CW_Assembler_HC12_RM.pdf)
